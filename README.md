@@ -1,1 +1,1 @@
-Repoztory for MySQL requests (window functions)
+Repository for MySQL requests (window functions)
