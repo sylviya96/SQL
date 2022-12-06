@@ -1,2 +1,1 @@
-# SQL
-Project1
+Repoztory for MySQL requests (window functions)
